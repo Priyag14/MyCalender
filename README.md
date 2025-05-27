@@ -33,7 +33,7 @@ Ensure you have the following installed:
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/mycalendar.git
+git clone https://github.com/Priyag14/MyCalendar.git
 cd mycalendar
 
 2. Install Dependencies
